@@ -1008,6 +1008,21 @@ form textarea:user-invalid {
     transform: translateY(-3px);
     box-shadow: 0 12px 24px -10px rgba(30, 64, 216, .6);
 }
+footer {
+        background-color: #101d4d;
+        color: white;
+        text-align: center;
+        padding: 35px;
+        border-top: 3px solid #3457e8;
+    }
+
+    footer h2 {
+        font-size: 22px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
 
 @keyframes float {
     50% {
